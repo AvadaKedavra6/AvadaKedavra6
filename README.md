@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **Java (Minecraft) and C++**
+- 🌱 I’m currently learning **C++** and **Robotic things**
 
 - 📫 How to reach me **Idk**
 
