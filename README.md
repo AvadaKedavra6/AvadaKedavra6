@@ -48,6 +48,3 @@ currently_learning: ["C++", "GoLang"]
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=avadakedavra6&layout=compact&theme=dark&langs_count=8&card_width=320" />
 </a>
 </p>
-
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
