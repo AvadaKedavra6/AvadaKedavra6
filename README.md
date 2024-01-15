@@ -2,10 +2,7 @@
 <h1 align="center">👋 Hi , I'm Avada ! 👋</h1>
 
 
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=avadakedavra6&label=Profile%20views&color=0e75b6&style=flat" alt="avadakedavra6" /> </p>
-
 
 
 <h2 align="center">👨🏻‍💻 About me and my interests</h2>
@@ -52,6 +49,3 @@ currently_learning: ["C++", "GoLang"]
 
 [![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
-<p align="center">
-<img src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572"/>
-</p>
