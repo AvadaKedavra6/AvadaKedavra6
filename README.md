@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avadakedavra6&label=Profile%20views&color=0e75b6&style=flat" alt="avadakedavra6" /> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **Spider Bot**
 
-- 🌱 I’m currently learning **C++** and **Robotic things**
-
-- 📫 How to reach me **Idk**
+- 🌱 I’m currently learning **Robotic things**
 
 - ⚡ Fun fact **I'm learning dead languages like latin , hebrew and greek :o**
 
