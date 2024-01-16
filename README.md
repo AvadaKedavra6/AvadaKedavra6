@@ -30,7 +30,7 @@ movies: ["All Harry Potter", "All Marvels", "Breaking Bad", "Prison Break", "Sui
 
 # -- Tertiary Info --
 currently_learning: ["C++", "GoLang"]
-2024_Goals: ["Create mine robotics project with AI"]
+2024_Goals: ["Create Dog bot from Boston Dynamics but with AI"]
 ```
 <br>
 
