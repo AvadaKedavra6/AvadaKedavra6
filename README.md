@@ -24,13 +24,13 @@ interest:
 
 # -- Secondary Info --
 
-languages: ["English", "French", "Hebrew", "Latin", "German"]
+languages: ["English", "French", "Hebrew", "Latin"]
 hobbies: ["Movies", "Gaming", "Music", "Cars", "Mechanic"]
 movies: ["All Harry Potter", "All Marvels", "Breaking Bad", "Prison Break", "Suits"]
 
 # -- Tertiary Info --
-currently_learning: ["C++", "GoLang"]
-2024_Goals: ["Create some games in UE5"]
+currently_learning: ["C++"]
+2025_Goals: ["Create my first robot !"]
 ```
 <br>
 
