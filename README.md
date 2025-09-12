@@ -10,7 +10,8 @@
 # -- Main Info --
 
 name: Avada Kedavra
-located_in: Vancouver, Canada
+located_in: Berlin, Germany
+age: Between 20-25 years
 current_job: Full Stack Developer
 
 interest:
@@ -18,18 +19,19 @@ interest:
   "Web Development",
   "Machine Learning",
   "Game Development",
-  "Robotics Engineering"
+  "Robotics Engineering",
+  "Reverse Engineering"
 ]
 
 # -- Secondary Info --
 
-languages: ["English", "French", "Hebrew", "Latin"]
+languages: ["English", "French", "German", "Latin"]
 hobbies: ["Movies", "Gaming", "Music", "Cars", "Mechanic"]
-movies: ["All Harry Potter", "All Marvels", "Breaking Bad", "Prison Break", "Suits"]
+movies: ["All Harry Potter", "All Marvels", "Breaking Bad", "Prison Break", "Suits", "The Sandman"]
 
 # -- Tertiary Info --
-currently_learning: ["C++"]
-2025_Goals: ["I dont have"]
+currently_learning: ["C++ (85%)"]
+2025-2026_Goals: ["Create my own framework like Flipper Zero"]
 
 # -- For French People --
 learn_website: "https://dagon-owl-roadmap.vercel.app"
