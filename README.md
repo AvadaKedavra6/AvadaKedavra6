@@ -4,7 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=avadakedavra6&label=Profile%20views&color=0e75b6&style=flat" alt="avadakedavra6" /> </p>
 
-
 <h2 align="center">👨🏻‍💻 About me and my interests</h2>
 
 ```yaml
@@ -30,7 +29,10 @@ movies: ["All Harry Potter", "All Marvels", "Breaking Bad", "Prison Break", "Sui
 
 # -- Tertiary Info --
 currently_learning: ["C++"]
-2025_Goals: ["Create my first robot !"]
+2025_Goals: ["I dont have"]
+
+# -- For French People --
+learn_website = "https://dagon-owl-roadmap.vercel.app"
 ```
 <br>
 
