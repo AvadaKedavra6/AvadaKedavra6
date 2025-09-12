@@ -32,7 +32,7 @@ currently_learning: ["C++"]
 2025_Goals: ["I dont have"]
 
 # -- For French People --
-learn_website = "https://dagon-owl-roadmap.vercel.app"
+learn_website: "https://dagon-owl-roadmap.vercel.app"
 ```
 <br>
 
