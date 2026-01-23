@@ -30,11 +30,12 @@ hobbies: ["Movies", "Gaming", "Music", "Cars", "Mechanic"]
 movies: ["All Harry Potter", "All Marvels", "Breaking Bad", "Prison Break", "Suits", "The Sandman"]
 
 # -- Tertiary Info --
-currently_learning: ["C++ (85%)"]
-2025-2026_Goals: ["Create my own framework like Flipper Zero"]
+currently_learning: ["C++ (still learning but around 90%)"]
+2026_Goals: ["Be rich ! (i joke, i want to create a spider bot like watch dogs legion :D)"]
 
 # -- For French People --
 learn_website: "https://dagon-owl-roadmap.vercel.app"
+(For the learning website, if its lag its normal i'm pretty bad with react)
 ```
 <br>
 
