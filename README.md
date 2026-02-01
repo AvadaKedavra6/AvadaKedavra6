@@ -33,6 +33,9 @@ movies: ["All Harry Potter", "All Marvels", "Breaking Bad", "Prison Break", "Sui
 currently_learning: ["C++ (still learning but around 90%)"]
 2026_Goals: ["Be rich ! (i joke, i want to create a spider bot like watch dogs legion :D)"]
 
+# -- My CodinGame Profile --
+futur_guru: "https://www.codingame.com/profile/7c7e5c69c0425c540b6d876ced4bad5b5319246"
+
 # -- For French People --
 learn_website: "https://dagon-owl-roadmap.vercel.app"
 (For the learning website, if its lag its normal i'm pretty bad with react)
